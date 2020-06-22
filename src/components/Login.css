@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0,0,0,0.1);
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    padding: 10px;
+    height: 600px;
+    width: 440px;
+    margin: 0 auto;
+}
+
+.g-signin2{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
